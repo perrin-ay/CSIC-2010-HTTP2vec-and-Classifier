@@ -112,6 +112,7 @@ traintestdataset_encoded['test']=traintestdataset_encoded['test'].cast(featstest
 
 - using cls pooling to get embeddings for HTTP requests from domain adapted http2vec distilbert
 - embeddings fed to classifier head for binary classification training
+- End to end training of domain adapted distilbert and classifier head for binary classification 
 """
 
 class TransformerFTseqclassifier(nn.Module):
