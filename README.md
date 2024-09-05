@@ -34,9 +34,12 @@
 
 ![image](https://github.com/user-attachments/assets/99585a38-7b4e-4b4c-9f8b-6b86fa4272b0)
 
+---
+
 ## Results
 
-- Full training logs
+- Full training logs : https://github.com/perrin-ay/CSIC-2010-HTTP2vec-and-Classifier/blob/main/full%20training%20logs.txt
+- 
 ```
 {'Training Accuracy': 99.45662227155013, 'Testing Accuracy': 99.59016393442623 , 'Loss': 0.022516824751084765}
 ```
